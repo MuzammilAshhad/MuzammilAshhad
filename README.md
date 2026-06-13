@@ -22,8 +22,8 @@ I'm passionate about building mobile applications using Flutter and Firebase. Cu
 - Software Engineering
 
 ## 📫 Contact Me
-- Email: your-email@example.com
-- LinkedIn: Your LinkedIn URL
+- Email: Muzammilrajput936@gmail.com
+- LinkedIn: [Muzammil](https://www.linkedin.com/in/muzammil-ashhad-7592na/)
 
 ---
 ⭐ Always learning, always building.
