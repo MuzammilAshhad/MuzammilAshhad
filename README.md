@@ -48,3 +48,17 @@ I'm passionate about building mobile applications using Flutter and Firebase. Cu
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+## 🚀 Featured Projects
+
+### 📱 Chat Application
+Real-time chat application built with Flutter and Firebase.
+
+### 🚗 Vehicle Documentation Management System
+Digital platform for managing vehicle records and ownership documents.
+
+### 🌦️ Weather App
+Weather forecasting application using Flutter and Weather APIs.
+
+### 🎮 The Hero
+Story-driven 3D Unity game featuring missions, progression, and open-world exploration.
