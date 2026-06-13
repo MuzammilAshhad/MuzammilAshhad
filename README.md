@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Muzammil 👋
 
-<!--
-**MuzammilAshhad/MuzammilAshhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I'm passionate about building mobile applications using Flutter and Firebase. Currently working on real-world projects and expanding my skills in mobile development, backend integration, and UI/UX design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Work
+- Internal HR & Training Management System
+- WhatsApp-like Chat Application
+- Vehicle Documentation Management System
+
+## 🌱 Currently Learning
+- Advanced Flutter Architecture
+- Firebase Backend Development
+- Clean Architecture
+- State Management
+
+## 💡 Interests
+- Mobile App Development
+- Game Development (Unity)
+- UI/UX Design
+- Software Engineering
+
+## 📫 Contact Me
+- Email: your-email@example.com
+- LinkedIn: Your LinkedIn URL
+
+---
+⭐ Always learning, always building.
