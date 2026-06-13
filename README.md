@@ -43,3 +43,8 @@ I'm passionate about building mobile applications using Flutter and Firebase. Cu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzammilAshhad&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzammilAshhad&layout=compact&theme=tokyonight)
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
