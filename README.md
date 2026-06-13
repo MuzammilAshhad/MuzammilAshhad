@@ -62,3 +62,7 @@ Weather forecasting application using Flutter and Weather APIs.
 
 ### 🎮 The Hero
 Story-driven 3D Unity game featuring missions, progression, and open-world exploration.
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
