@@ -1,68 +1,93 @@
-# Hi, I'm Muzammil 👋
+<h1 align="center">Hi 👋, I'm Muzammil</h1>
+<h3 align="center">Flutter Developer | Computer Science Student | Mobile App Enthusiast</h3>
 
-🚀 Flutter Developer | Computer Science Student
+<div align="center">
 
-I'm passionate about building mobile applications using Flutter and Firebase. Currently working on real-world projects and expanding my skills in mobile development, backend integration, and UI/UX design.
+💻 Building Flutter Applications
 
-## 🔭 Current Work
-- Medical Store Management System
-- Chat Application
-- Vehicle Documentation Management System
+🔥 Learning Advanced Flutter & Firebase
 
-## 🌱 Currently Learning
-- Advanced Flutter Architecture
-- Firebase Backend Development
-- Clean Architecture
-- State Management
+🎮 Developing a 3D Unity Final Year Project
 
-## 💡 Interests
-- Mobile App Development
-- Game Development (Unity)
-- UI/UX Design
-- Software Engineering
+🚀 Working towards Remote Flutter Opportunities
 
-## 📫 Contact Me
-- Email: Muzammilrajput936@gmail.com
-- LinkedIn: [Muzammil](https://www.linkedin.com/in/muzammil-ashhad-7592na/)
+</div>
 
 ---
-⭐ Always learning, always building.
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 📱 Flutter Developer
+- 🎓 Computer Science Student at Abasyn University
+- 🌱 Currently learning Clean Architecture & State Management
+- 🔥 Building real-world mobile applications
+- 🎮 Passionate about Game Development with Unity
+- 📫 Reach me: your-email@example.com
 
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,cpp,sqlite,git,github,vscode,androidstudio,unity" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzammilAshhad&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzammilAshhad&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<div align="center">
 
-## 🚀 Featured Projects
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
-### 📱 Chat Application
-Real-time chat application built with Flutter and Firebase.
+</div>
 
-### 🚗 Vehicle Documentation Management System
-Digital platform for managing vehicle records and ownership documents.
+---
 
-### 🌦️ Weather App
-Weather forecasting application using Flutter and Weather APIs.
+## 📱 Featured Projects
+
+### 💬 Chat Application
+Flutter + Firebase real-time messaging application.
+
+### 🏢 HR Management System
+Internal HR & Training Management System for mobile and web.
+
+### 🌦 Weather Application
+Weather forecasting app using API integration.
 
 ### 🎮 The Hero
-Story-driven 3D Unity game featuring missions, progression, and open-world exploration.
+Story-driven 3D Unity game with missions and progression system.
 
-## 👀 Profile Views
+---
 
-![](https://komarev.com/ghpvc/?username=MuzammilAshhad&color=blueviolet)
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+</div>
